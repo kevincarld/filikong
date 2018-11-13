@@ -1,1 +1,1 @@
-# kevincarld.github.io
+simple static website for practice
